@@ -1,3 +1,16 @@
+## Fork provenance
+
+This repository is a GitHub fork of [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill). Original authorship of inherited project material belongs to the upstream project and its contributors.
+
+- **Local purpose:** Maintain a local reference and working copy of the reverse-engineering and cybersecurity Skill router.
+- **Local changes and history state:** On 05/10/2026, GitHub could not produce an ahead/behind comparison and returned **"No common ancestor between zhaoxuya520:main and yuvalg72:main."** The fork relationship is verified by GitHub metadata, but the current local branch history has diverged or been replaced enough that commit-count comparison cannot safely describe the local modification set.
+- **Sync model:** Diverged snapshot with non-comparable history. Do not assume automatic synchronization with upstream. Any future reconciliation requires explicit tree/content review rather than a blind merge or rebase.
+- **License and attribution:** The repository retains the upstream MIT `LICENSE` with copyright attributed to zhaoxuya520.
+- **Links and project claims:** Release, stars, forks, Issues, Trendshift, clone, and other links below that point to `zhaoxuya520/reverse-skill` describe the upstream project. They must not be interpreted as achievements or releases of this fork.
+- **Portfolio status:** Because exact historical local modifications cannot be reconstructed from a normal GitHub compare, this fork remains unsuitable for first-party portfolio claims unless a separate content-level provenance review resolves that ambiguity.
+
+---
+
 <p align="center">
   <img src="reverse-skill.png" alt="reverse-skill" width="140" />
 </p>
